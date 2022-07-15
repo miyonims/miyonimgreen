@@ -1,0 +1,58 @@
+body {
+  background-color: #070707;
+  font-family: 'Press Start 2P', cursive;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+#title {
+  width: 60rem;
+  margin: 0px;
+  padding: 20px 0px 0px 20px;
+  border: 0px;
+  color: #00cc00;
+}
+
+#title h1 {
+  font-size: 8rem;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+#title h2 {
+  font-size: 1.5rem;
+  text-align: end;
+  margin: -0.3rem 0rem;
+  padding: 0px;
+  border: 0px;
+}
+
+#nav {
+  color: #00cc00;
+  width: 40rem 0rem 0rem 0rem;
+  height: 3rem;
+  padding: 30rem 0rem 0rem 0rem;
+}
+
+#nav table tr {
+  text-align: auto;
+}
+
+#nav table tr td {
+  width: fit-content;
+  height: fit-content;
+}
+
+#nav table tr td a {
+  color: #00cc00;
+  text-decoration: none;
+  font-size: 4rem;
+  padding: 1rem;
+  line-height: 7rem;
+}
+
+#nav table tr td a:hover {
+  border: 8px solid #00cc00;
+}
